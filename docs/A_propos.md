@@ -26,7 +26,7 @@ N'hésitez pas à me contacter par [Email](mailto:ccoulombe@cegepgarneau.ca) ou 
 ## Loisirs
 
 Voici une image de moi en randonnée sur l'un de mes sentiers préférés:
-![Randonnee](./assets/profile.jpg)
+![Randonnee](/assets/profile.png)
 
 J'aime aussi réaliser de petits projets technologiques pendant mon temps libre. Ci-dessous une image de l'une de mes dernières créations:
-![Projet Technologique](./assets/profile.jpg)
+![Projet Technologique](/assets/profile.png)
