@@ -21,7 +21,7 @@ Responsabilités:
 
 ## Contact
 
-N'hésitez pas à me contacter par [Email](mailto:ccoulombe@cegepgarneau.ca) ou à vous connecter avec moi sur [LinkedIn](lien-linkedin).
+N'hésitez pas à me contacter par [Email](mailto:ccoulombe@cegepgarneau.ca) ou sur Teams!
 
 ## Loisirs
 
