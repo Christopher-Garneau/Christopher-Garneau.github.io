@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "Présentation"
-  text: "Notes de cours"
-  tagline: My great project tagline
+  name: "Accueil"
+  tagline: Christopher Coulombe
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Les différentes notes de cours
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: À propos de moi
+      link: /A_propos
+  image:
+    src: /assets/profile.png
+    alt: VitePress
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Formation en mathématique et informatique
+    details: BAC en math-info et maîtrise en optimisation combinatoire (informatique) à l'Université Laval
+  - title: Trippeux d'escalade
+    details: Surtout du bloc intérieur, mais trippeux d'un peu tout 🧗‍♂️
+  - title: Vétéran de jeux de rôles
+    details: Pathfinder, World of Darkness, GloomHaven, etc
 ---
 

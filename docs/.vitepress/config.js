@@ -4,26 +4,32 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Présentation",
   description: "Notes de cours",
-  base: "/Presentation/",
+  base: "/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Accueil', link: '/index' },
+      { text: 'Cours', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Notes de cours', link: '/markdown-examples' },
+          { text: 'À propos', link: '/A_propos' }
         ]
       }
     ],
 
+    outlineTitle: 'Sur cette page',
+
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/Christopher-Garneau/Presentation' }
+    ],
+
+    head: [
+      ['link', { rel: 'stylesheet', href: '/styles.css' }]
+    ],
   }
 })
