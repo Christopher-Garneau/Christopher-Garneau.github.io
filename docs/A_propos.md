@@ -1,7 +1,7 @@
 # Bienvenue! Je me présente
 
 <div style="display: flex; align-items: center;">
-  <img src="profile2.png" alt="Photo de Christopher" style="width: 200px; border-radius: 50%; margin-right: 20px;" />
+  <img src="/profile2.png" alt="Photo de Christopher" style="width: 200px; border-radius: 50%; margin-right: 20px;" />
   <div>
     <p>Salut! Je suis Christopher, enseignant en informatique au Cégep. Plus qu'un métier, l'enseignement est pour moi une véritable passion. J'ai commencé à enseigner officiellement à l'université et j'ai tellement adoré que j'ai commencé à faire cela temps plein. J'ai trouvé une place au Cégep Garneau et j'adore le programme! Je suis particulièrement spécialisé dans tout ce qui touche aux mathématiques, alors n'hésitez pas à m'en parler aussi au besoin!</p>
   </div>
@@ -10,7 +10,7 @@
 ## Mes passions
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="profile3.jpg" alt="Photo de Christopher" style="width: 200px; border-radius: 11%; margin-right: 20px;" />
+  <img src="/profile3.jpg" alt="Photo de Christopher" style="width: 200px; border-radius: 11%; margin-right: 20px;" />
   <div>
     <ul>
       <li><strong>Programmer</strong>: Python, C, C++, C#, F#... Je suis surtout spécialisé dans les langages d'applications, mais vous pouvez me poser des questions pour n'importe quel langage!</li>
@@ -26,7 +26,7 @@
 *Poste*: Enseignant en Informatique
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="School2.jpg" alt="Photo de Christopher" style="width: 200px; border-radius: 11%; margin-right: 20px;" />
+  <img src="/School2.jpg" alt="Photo de Christopher" style="width: 200px; border-radius: 11%; margin-right: 20px;" />
   <div>
     <p>J'ai fait le préuniversitaire en Sciences de la nature à Sherbrooke où j'ai gradué en 2015. J'ai ensuite été à l'université dans deux programmes différents avant d'aller en informatique! J'ai essayé Génie Mécanique à Sherbrooke, puis Droit à Québec. J'ai passé un an dans chaque programme pour finalement aller en <i>Mathématiques et informatique</i> à Québec. </p>
     <p>J'ai gradué en 2019, et j'ai poursuivi à la matrîse en <i>optimisation combinatoire</i> (informatique) où j'ai réussis à écrire un article scientifique qui a été publié internationalement et présenté en Israël. J'ai gradué en janvier 2023. </p>
