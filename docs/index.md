@@ -13,8 +13,8 @@ hero:
       text: À propos de moi
       link: /A_propos
   image:
-    src: /assets/profile.png
-    alt: VitePress
+    src: /profile.png
+    alt: Photo de profil
 
 features:
   - title: Formation en mathématique et informatique
